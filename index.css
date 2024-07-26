@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.avenue-home-bg-container {
+    height: 100vh;
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+}
+
+.avenue-home-card-container {
+    background-color: #ffffff;
+    padding: 32px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.home-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 22px;
+}
+
+.home-description {
+    color: #7b8794;
+    font-family: "Bree Serif";
+}
+
+.home-button {
+    border: none;
+    background-color: #f19116;
+    border-radius: 4px;
+    padding: 6px 16px 6px 16px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.flats-list-bg-container {
+    background-color: #222222;
+    padding: 20px;
+}
+
+.flats-list-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 22px;
+}
+
+.flat-list-card-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.flat-list-card-image {
+    height: 180px;
+    margin-right: 10px;
+}
+
+.card-description-container {
+    padding: 10px;
+}
+
+.flat-type {
+    font-size: 22px;
+    font-family: "Bree Serif";
+}
+
+.card-description {
+    font-size: 14px;
+    font-family: "Bree Serif";
+    color: #7b8794;
+}
+
+.back-button {
+    margin-top: 20px;
+    border: none;
+    color: #ffffff;
+    font-weight: 400;
+    background-color: #f19116;
+    padding: 4px 18px 4px 18px;
+    border-radius: 4px;
+}
+
+.flat-description-bg-container {
+    background-color: #222222;
+    height: 100vh;
+}
+
+.description-image {
+    height: 30vh;
+    width: 100vw;
+}
+
+.flat-description-container {
+    padding: 20px;
+}
+
+.price {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.location-image {
+    height: 25px;
+}
+
+.address {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.descriptoin-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.flat-detailed-description {
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.confirm-button {
+    margin-top: 20px;
+    border: none;
+    color: #ffffff;
+    font-weight: 400;
+    background-color: #f19116;
+    padding: 4px 16px 4px 16px;
+    border-radius: 4px;
+}
